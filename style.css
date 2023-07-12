@@ -502,7 +502,7 @@
     }
 }
 
-@media screen and (width<530px){
+@media screen and (width<530px) {
     .sec1 span {
         font-size: 2em;
     }
@@ -537,11 +537,11 @@
 
     }
 
-    .sec4 .info{
+    .sec4 .info {
 
         flex-basis: 70%;
         height: 200px;
-        
+
         margin-top: 70px;
         margin-bottom: 0px;
         background-color: white;
@@ -556,7 +556,8 @@
         transition: all 0.7s ease-in-out;
         -webkit-margin-collapse: 70px;
     }
-    .sec4 .info #about{
+
+    .sec4 .info #about {
         margin-top: 12px;
         margin-bottom: 30px;
     }
@@ -578,28 +579,30 @@
         transform: scale(0.9);
         box-shadow: 4px 4px 10px rgb(50, 50, 50);
     }
+
     .sec5 .box {
         background-color: black;
     }
-    
+
     .sec5 .copyright {
         width: 400px;
         min-height: 80px;
-    
+
         margin: 0 auto;
         display: flex;
         justify-content: center;
         align-items: center;
-    
+
         color: white;
         font-size: 17px;
         font-family: 'Zilla Slab', serif;
-    
+
     }
-    
+
 
 }
-@media screen and (width<480px){
+
+@media screen and (width<480px) {
     .sec1 span {
         font-size: 1.7em;
     }
@@ -611,6 +614,7 @@
     .sec1 h2 {
         font-size: 1.7rem;
     }
+
     .sec2 {
         width: 100%;
         min-height: 120px;
@@ -629,25 +633,28 @@
     .sec2 span {
         font-size: 2.5rem;
     }
+
     .sec5 .copyright {
         width: 400px;
         min-height: 80px;
-    
+
         margin: 0 auto;
         display: flex;
         justify-content: center;
         align-items: center;
-    
+
         color: white;
         font-size: 15px;
         font-family: 'Zilla Slab', serif;
-    
+
     }
-    .sec5 .social_icons{
+
+    .sec5 .social_icons {
         padding-top: 23px;
     }
 }
-@media screen and (width<480px){
+
+@media screen and (width<480px) {
     .sec1 span {
         font-size: 1.5em;
     }
@@ -659,6 +666,7 @@
     .sec1 h2 {
         font-size: 1.5rem;
     }
+
     .sec2 {
         width: 100%;
         min-height: 120px;
@@ -678,7 +686,8 @@
         font-size: 2.5rem;
     }
 }
-@media screen and (width<370px){
+
+@media screen and (width<370px) {
     .sec1 span {
         font-size: 2em;
     }
@@ -691,7 +700,7 @@
         font-size: 1rem;
     }
 }
-@media screen and (width<322px){
+@media screen and (width< 600px) {
     .sec1 span {
         font-size: 1.9em;
     }
@@ -711,6 +720,7 @@
 
 
     }
+
     .sec2 {
         width: 100%;
         min-height: 100px;
@@ -729,7 +739,7 @@
     .sec2 span {
         font-size: 2rem;
     }
-    
+
     .card {
         width: 200px;
         height: 250px;
@@ -785,7 +795,7 @@
         transform: scale(0.9);
         box-shadow: 4px 4px 10px rgb(50, 50, 50);
     }
-    
+
     .sec5 .social_icons {
         padding: 20px;
     }
