@@ -481,7 +481,7 @@
     }
 }
 
-@media screen and (width<600px) {
+/* @media screen and (width<600px) {
     .sec2 {
         width: 100%;
         min-height: 120px;
@@ -699,7 +699,7 @@
     .sec1 h2 {
         font-size: 1rem;
     }
-}
+} */
 @media screen and (width< 600px) {
     .sec1 span {
         font-size: 1.9em;
